@@ -1664,7 +1664,7 @@ input, select, textarea {
 
 .timeline{
   width:750px;
-  background-color:#191970;
+  background-color:#0b2c3b;
   color:#fff;
   padding:20px 20px;
   box-shadow:0px 0px 10px rgba(0,0,0,.5);
@@ -1682,7 +1682,7 @@ input, select, textarea {
 }
 .timeline ul li span{
   display:inline-block;
-  background-color:#1685b8;
+  background-color:#9400D3;
   border-radius:25px;
   padding:2px 5px;
   font-size:15px;
