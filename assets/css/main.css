@@ -1668,14 +1668,6 @@ input, select, textarea {
   font-family:'Poppins', sans-serif;
   perspective:800px;
 }
-body{
-  background-color:#227093;
-  width:100%;
-  min-height:100vh;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-}
 .timeline{
   width:800px;
   background-color:#072736;
