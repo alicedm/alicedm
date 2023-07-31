@@ -1663,15 +1663,15 @@ input, select, textarea {
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 .timeline{
-  width:700px;
-  background-color:#696969;
+  width:750px;
+  background-color:#191970;
   color:#fff;
   padding:20px 20px;
   box-shadow:0px 0px 10px rgba(0,0,0,.5);
 }
 .timeline ul{
   list-style-type:none;
-  border-left:2px solid #094a68;
+  border-left:2px solid #9400D3;
   padding:10px 5px;
 }
 .timeline ul li{
@@ -1689,7 +1689,7 @@ input, select, textarea {
   text-align:center;
 }
 .timeline ul li .content h3{
-  color:#8B008B;
+  color:#9400D3;
   font-size:17px;
   padding-top:5px;
 }
